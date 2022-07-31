@@ -1,0 +1,12 @@
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\bin\Debug\Database.mdf
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\bin\Debug\Database_log.ldf
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\bin\Debug\CRUD DataGridView.exe.config
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\bin\Debug\CRUD DataGridView.exe
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\bin\Debug\CRUD DataGridView.pdb
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\obj\Debug\CRUD DataGridView.csproj.AssemblyReference.cache
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\obj\Debug\CRUD_DataGridView.Form1.resources
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\obj\Debug\CRUD_DataGridView.Properties.Resources.resources
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\obj\Debug\CRUD DataGridView.csproj.GenerateResource.cache
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\obj\Debug\CRUD DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\obj\Debug\CRUD DataGridView.exe
+C:\Users\Karin Marie\Desktop\Repositorios\CRUD DataGridView\CRUD DataGridView\obj\Debug\CRUD DataGridView.pdb
